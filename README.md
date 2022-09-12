@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+everyone)](https://git.io/typing-svg)
 
----
+
 
 #### ⤵️ My Contacts:
 
@@ -37,7 +37,10 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
+
 </div>
+
+
 
 
 <!--
@@ -53,4 +56,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalovaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalovaa&theme=dark" />
+
 -->
