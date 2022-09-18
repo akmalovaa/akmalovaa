@@ -28,7 +28,7 @@ I study DevOps methodologies and Python programming. I like it and want to get m
 ---
 
 
-#### 🔧 Technologies & Tools:
+#### 🛠️ Technologies & Tools:
 
 <div>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
