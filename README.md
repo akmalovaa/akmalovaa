@@ -1,4 +1,4 @@
-![header](https://downloader.disk.yandex.ru/preview/1b01fe32e350554c3997338aee5bd26e62205ff2ff80e7e5c3522ff7c0b49daa/6327bcef/PISthihwOdYYL-MJP_G39RwYHAAWEdtV1uqr7UVhRM3PVXyH5m3xQJGngF0sooxEmjQJe8udZO1ruAxHrsZ_PQ%3D%3D?uid=0&filename=2738.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![header](https://github.com/akmalovaa/akmalovaa/blob/main/assets/image.jpg?raw=true)
 <h1 align="center">
 
 Hi👋, I'm Artur Akmalov 
