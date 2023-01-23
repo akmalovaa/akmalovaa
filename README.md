@@ -18,10 +18,9 @@ I study DevOps methodologies and Python programming. I like it and want to get m
 
 
 #### 📊 GitHub Profile Stats
+| <a href="#"><img align="center" src="https://github.akmalov.com/api?username=akmalovaa&theme=tokyonight&count_private=true&show_icons=true" alt="Akmalov github stats" /></a> | <a href="https://github.com/akmalovaa"><img align="center" src="https://github.akmalov.com/api/top-langs/?theme=tokyonight&count_private=true&show_icons=true&layout=compact" /></a>
+| ------------- | ------------- |
 
-<a href="#"><img alt="My GitHub stats" src="https://github.akmalov.com/api?username=akmalovaa&theme=tokyonight&count_private=true&show_icons=true" height="200px" /></a>
-<a href="#"><img alt="My most used languages" src="https://github.akmalov.com/api/top-langs/?theme=tokyonight&count_private=true&show_icons=true&layout=compact" height="200px" /></a>
-<br />
 
 
 ---
