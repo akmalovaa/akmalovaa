@@ -9,12 +9,20 @@ Hi👋, I'm Artur Akmalov
 
 
 ### Introduction 💬
-I study DevOps methodologies and Python programming. I like it and want to get more experience and knowledge. I also have my own home server (homelab), where I conduct experiments, develop, practice and deploy various open-source projects 
+In IT since 2014, I like to study and gain new knowledge in this field. In my free time, I write the simplest programs and scripts to optimize and automate monotonous or routine tasks. I try to write instructions, useful notes, interesting articles on [my website](https://akmalov.com) and third-party resources.
 
-- 🔭 I’m currently focusing on upgrading skills
-- 🌱 I’m currently learning Python, k8s
-- 👀 I’m interested in learning Devops tools.
+I study DevOps tools and methodologies and Python programming.
 
+Interesting directions for me:
+
+* Programming Language: Python
+* Orchestration/containerization: Kubernetes, Docker
+* Configuration management systems: Ansible, Terraform, Salt
+* Monitoring: Prometheus, Grafana
+* Databases: PostgreSQL, MongoDB
+* Virtualization Systems: Proxmox
+* Cloud Platform: Yandex.Cloud, Timeweb
+* CI/CD: Gitlab
 
 
 #### 📊 GitHub Profile Stats
