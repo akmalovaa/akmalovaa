@@ -4,7 +4,7 @@
 Hi👋, I'm Artur Akmalov 
 
 </h1>
-<h3 align="center">Im a beginner DevOps Engineer
+<h3 align="center">Im a beginner Software Engineer
 </h3>
 
 
