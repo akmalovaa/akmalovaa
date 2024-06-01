@@ -15,14 +15,14 @@ I study DevOps tools and methodologies and Python programming.
 
 Interesting directions for me:
 
-* Programming Language: Python
-* Orchestration/containerization: Kubernetes, Docker
-* Configuration management systems: Ansible, Terraform
-* Monitoring: Prometheus, Grafana
-* Databases: PostgreSQL
-* Virtualization Systems: Proxmox
-* Cloud Platform: Yandex.Cloud, Timeweb
-* CI/CD: Gitlab
+* **Programming Language:** Python
+* **Orchestration/containerization:** Kubernetes, Docker
+* **Configuration management systems:** Ansible, Terraform
+* **Monitoring:** Prometheus, Grafana
+* **Databases:** PostgreSQL
+* **Virtualization Systems:** Proxmox
+* **Cloud Platform:** Yandex.Cloud, Timeweb
+* **CI/CD:** Gitlab
 
 ![Metrics](github-metrics.svg)
 
