@@ -1,10 +1,10 @@
-![header](https://github.com/akmalovaa/akmalovaa/blob/main/assets/image.jpg?raw=true)
+
 <h1 align="center">
 
-Hi👋, I'm Artur Akmalov 
+Hello everyone👋
 
 </h1>
-<h3 align="center">Im a beginner Software Engineer
+<h3 align="center">Im a Software Engineer
 </h3>
 
 
@@ -17,13 +17,14 @@ Interesting directions for me:
 
 * Programming Language: Python
 * Orchestration/containerization: Kubernetes, Docker
-* Configuration management systems: Ansible, Terraform, Salt
+* Configuration management systems: Ansible, Terraform
 * Monitoring: Prometheus, Grafana
-* Databases: PostgreSQL, MongoDB
+* Databases: PostgreSQL
 * Virtualization Systems: Proxmox
 * Cloud Platform: Yandex.Cloud, Timeweb
 * CI/CD: Gitlab
 
+![Metrics](github-metrics.svg)
 
 #### 📊 GitHub Profile Stats
 | <a href="#"><img align="center" src="https://github.akmalov.com/api?username=akmalovaa&theme=tokyonight&count_private=true&show_icons=true" alt="Akmalov github stats" /></a> | <a href="https://github.com/akmalovaa"><img align="center" src="https://github.akmalov.com/api/top-langs/?theme=tokyonight&count_private=true&show_icons=true&layout=compact" /></a>
